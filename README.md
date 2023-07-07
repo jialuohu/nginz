@@ -1,2 +1,2 @@
-nginz - web server application
+nginz - web server
 
