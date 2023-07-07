@@ -1,6 +1,6 @@
 # nginz
 
-![PRsWelcome](https://img.shields.io/badge/PRs-welcome-ForestGreen) ![GitHub](https://img.shields.io/github/license/jialuohu/nginz?color=hotpink) 
+[![PRsWelcome](https://img.shields.io/badge/PRs-welcome-ForestGreen)](https://github.com/jialuohu/nginz/pulls) [![GitHub](https://img.shields.io/github/license/jialuohu/nginz?color=hotpink)](LICENSE)
 
 Replica of Nginx web server.
 
